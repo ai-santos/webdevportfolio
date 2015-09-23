@@ -1,0 +1,19 @@
+{
+  "name": "webdevportfolio",
+  "version": "1.0.0",
+  "description": "Developer Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asantos3026/webdevportfolio.git"
+  },
+  "author": "Aileen Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asantos3026/webdevportfolio/issues"
+  },
+  "homepage": "https://github.com/asantos3026/webdevportfolio#readme"
+}
