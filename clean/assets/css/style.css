@@ -368,7 +368,7 @@ textarea.form-control {
 }
 
 .intro {
-	position: absolute;
+	position: relative;
 	width: 100%;
 	top: 50%;
 	left: 0;
