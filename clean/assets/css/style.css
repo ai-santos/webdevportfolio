@@ -19,14 +19,15 @@
 	background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; 
 }
 
-.icon-react, .icon-angular {
+.icon-react {
 	width: 12%;
-	margin-left: -10px;
+	margin-left: -5px;
 	margin-top: -5px;
 }
 
 .icon-angular {
-	margin-left: -8px;
+	width: 12%;
+	margin-top: -5px;
 }
 
 .navbar-brand {
